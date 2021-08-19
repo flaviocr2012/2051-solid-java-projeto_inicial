@@ -18,3 +18,5 @@ Esse princípio basicamente diz que é melhor criar interfaces mais específicas
 A inversão de dependências e de propriedade incentiva a reutilização de superior/política de camadas. Camadas superiores podem usar outras implementações dos serviços menores.
 
 Com os princípios adotados é possível obter um código com menor acomplamento, mais coeso e encapsulado, favorecendo a leitura e manutenção do sistema. 
+
+Projeto criado com a linguagem Java. 
